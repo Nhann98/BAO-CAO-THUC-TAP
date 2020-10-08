@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  8 OCT 2020 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  8 OCT 2020 14:33
 entering extended mode
 **"./Bao cao thuc tap.tex"
 ("Bao cao thuc tap.tex"
@@ -531,31 +531,44 @@ Overfull \hbox (11.32915pt too wide) in paragraph at lines 213--214
  [][] 
  []
 
-<D:/Báo cáo thực tập/pic/bao tri.jpg, id=30, 959.585pt x 1280.785pt>
+<D:/Báo cáo thực tập/pic/bao gia 2.png, id=30, 866.0355pt x 143.93774pt>
+File: D:/Báo cáo thực tập/pic/bao gia 2.png Graphic file (type png)
+<use D:/Báo cáo thực tập/pic/bao gia 2.png>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/bao gia 2.png  used on i
+nput line 219.
+(pdftex.def)             Requested size: 433.0167pt x 71.96869pt.
+<D:/Báo cáo thực tập/pic/bao gia 3.png, id=31, 727.518pt x 267.399pt>
+File: D:/Báo cáo thực tập/pic/bao gia 3.png Graphic file (type png)
+<use D:/Báo cáo thực tập/pic/bao gia 3.png>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/bao gia 3.png  used on i
+nput line 225.
+(pdftex.def)             Requested size: 436.51418pt x 160.44063pt.
+[6 <D:/Báo cáo thực tập/pic/bao gia.png> <D:/Báo cáo thực tập/pic/b
+ao gia 2.png> <D:/Báo cáo thực tập/pic/bao gia 3.png>]
+<D:/Báo cáo thực tập/pic/bao tri.jpg, id=38, 959.585pt x 1280.785pt>
 File: D:/Báo cáo thực tập/pic/bao tri.jpg Graphic file (type jpg)
 <use D:/Báo cáo thực tập/pic/bao tri.jpg>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/bao tri.jpg  used on inp
-ut line 222.
-(pdftex.def)             Requested size: 191.91359pt x 256.15247pt.
-[6 <D:/Báo cáo thực tập/pic/bao gia.png> <D:/Báo cáo thực tập/pic/b
-ao tri.jpg>]
-<D:/Báo cáo thực tập/pic/ket noi.jpg, id=35, 374.39874pt x 281.05pt>
+ut line 235.
+(pdftex.def)             Requested size: 287.87772pt x 384.23846pt.
+<D:/Báo cáo thực tập/pic/ket noi.jpg, id=39, 374.39874pt x 281.05pt>
 File: D:/Báo cáo thực tập/pic/ket noi.jpg Graphic file (type jpg)
 <use D:/Báo cáo thực tập/pic/ket noi.jpg>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/ket noi.jpg  used on inp
-ut line 230.
+ut line 242.
 (pdftex.def)             Requested size: 224.64098pt x 168.63129pt.
- [7 <D:/Báo cáo thực tập/pic/ket noi.jpg>]
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 240--240
+ [7 <D:/Báo cáo thực tập/pic/bao tri.jpg> <D:/Báo cáo thực tập/pic/
+ket noi.jpg>]
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 252--252
 [] [] 
  []
 
 [8] ("Bao cao thuc tap.aux") ) 
 Here is how much of TeX's memory you used:
- 3878 strings out of 480236
- 51872 string characters out of 2890319
- 326300 words of memory out of 3000000
- 20380 multiletter control sequences out of 15000+200000
+ 3896 strings out of 480236
+ 52442 string characters out of 2890319
+ 326291 words of memory out of 3000000
+ 20394 multiletter control sequences out of 15000+200000
  539943 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,66p,750b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -563,9 +576,9 @@ Here is how much of TeX's memory you used:
 \fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Nguyen Thanh Nhan/App
 Data/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Nguyen Thanh Nha
 n/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb>
-Output written on "Bao cao thuc tap.pdf" (8 pages, 1586406 bytes).
+Output written on "Bao cao thuc tap.pdf" (8 pages, 1676969 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

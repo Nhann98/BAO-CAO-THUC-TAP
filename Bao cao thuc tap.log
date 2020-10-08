@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  8 OCT 2020 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.7)  8 OCT 2020 14:09
 entering extended mode
 **"./Bao cao thuc tap.tex"
 ("Bao cao thuc tap.tex"
@@ -350,44 +350,51 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+("C:\Users\Nguyen Thanh Nhan\AppData\Roaming\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks25
+\float@box=\box49
+\@float@everytoks=\toks26
+\@floatcapt=\box50
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count266
-\l__pdf_internal_box=\box49
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box51
 )
 ("Bao cao thuc tap.aux")
 \openout1 = `"Bao cao thuc tap.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
+\scratchcounter=\count268
 \scratchdimen=\dimen158
-\scratchbox=\box50
-\nofMPsegments=\count268
-\nofMParguments=\count269
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count270
+\scratchbox=\box52
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count271
 \MPscratchDim=\dimen159
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks28
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -428,22 +435,22 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
@@ -456,109 +463,109 @@ This may cause the page layout to be inconsistent, however.
 [1{C:/Users/Nguyen Thanh Nhan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<D:/Báo cáo thực tập/pic/haco.jpg, id=7, 359.3425pt x 141.52875pt>
-File: D:/Báo cáo thực tập/pic/haco.jpg Graphic file (type jpg)
-<use D:/Báo cáo thực tập/pic/haco.jpg>
-Package pdftex.def Info: D:/Báo cáo thực tập/pic/haco.jpg  used on input 
-line 56.
+<D:/Báo cáo thực tập/pic/HACO.jpg, id=7, 359.3425pt x 141.52875pt>
+File: D:/Báo cáo thực tập/pic/HACO.jpg Graphic file (type jpg)
+<use D:/Báo cáo thực tập/pic/HACO.jpg>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/HACO.jpg  used on input 
+line 57.
 (pdftex.def)             Requested size: 359.34161pt x 141.5284pt.
-[2 <D:/Báo cáo thực tập/pic/haco.jpg>]
+[2 <D:/Báo cáo thực tập/pic/HACO.jpg>]
 <D:/Báo cáo thực tập/pic/van phuc city.png, id=12, 484.81125pt x 353.8218
 7pt>
 File: D:/Báo cáo thực tập/pic/van phuc city.png Graphic file (type png)
 <use D:/Báo cáo thực tập/pic/van phuc city.png>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/van phuc city.png  used 
-on input line 110.
-(pdftex.def)             Requested size: 290.88899pt x 212.29475pt.
-<D:/Báo cáo thực tập/pic/lagi phan thiet.jpg, id=14, 489.32813pt x 300.37
+on input line 111.
+(pdftex.def)             Requested size: 339.36555pt x 247.67361pt.
+<D:/Báo cáo thực tập/pic/verosa park.jpg, id=14, 338.26375pt x 396.48125p
+t>
+File: D:/Báo cáo thực tập/pic/verosa park.jpg Graphic file (type jpg)
+<use D:/Báo cáo thực tập/pic/verosa park.jpg>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/verosa park.jpg  used on
+ input line 129.
+(pdftex.def)             Requested size: 169.13145pt x 198.24013pt.
+ [3 <D:/Báo cáo thực tập/pic/van phuc city.png>]
+<D:/Báo cáo thực tập/pic/dai phu quy.png, id=19, 313.9228pt x 405.76593pt
+>
+File: D:/Báo cáo thực tập/pic/dai phu quy.png Graphic file (type png)
+<use D:/Báo cáo thực tập/pic/dai phu quy.png>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/dai phu quy.png  used on
+ input line 146.
+(pdftex.def)             Requested size: 156.96101pt x 202.88246pt.
+
+Overfull \hbox (4.86584pt too wide) in paragraph at lines 143--148
+[]\T5/cmr/bx/n/12 SHOWROOM �I PH� QU� - BI�N HO� �NG NAI, TP.HCM. 
+ []
+
+[4 <D:/Báo cáo thực tập/pic/verosa park.jpg> <D:/Báo cáo thực tập/p
+ic/dai phu quy.png>]
+<D:/Báo cáo thực tập/pic/long giang.jpg, id=24, 408.52625pt x 378.41376pt
+>
+File: D:/Báo cáo thực tập/pic/long giang.jpg Graphic file (type jpg)
+<use D:/Báo cáo thực tập/pic/long giang.jpg>
+Package pdftex.def Info: D:/Báo cáo thực tập/pic/long giang.jpg  used on 
+input line 165.
+(pdftex.def)             Requested size: 245.11765pt x 227.05pt.
+<D:/Báo cáo thực tập/pic/lagi phan thiet.jpg, id=25, 489.32813pt x 300.37
 22pt>
 File: D:/Báo cáo thực tập/pic/lagi phan thiet.jpg Graphic file (type jpg)
 
 <use D:/Báo cáo thực tập/pic/lagi phan thiet.jpg>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/lagi phan thiet.jpg  use
-d on input line 127.
-(pdftex.def)             Requested size: 391.46303pt x 240.29807pt.
- [3 <D:/Báo cáo thực tập/pic/van phuc city.png>]
-<D:/Báo cáo thực tập/pic/verosa park.jpg, id=19, 338.26375pt x 396.48125p
-t>
-File: D:/Báo cáo thực tập/pic/verosa park.jpg Graphic file (type jpg)
-<use D:/Báo cáo thực tập/pic/verosa park.jpg>
-Package pdftex.def Info: D:/Báo cáo thực tập/pic/verosa park.jpg  used on
- input line 144.
-(pdftex.def)             Requested size: 202.95981pt x 237.89058pt.
- [4 <D:/Báo cáo thực tập/pic/lagi phan thiet.jpg> <D:/Báo cáo thực t�
-��p/pic/verosa park.jpg>]
-<D:/Báo cáo thực tập/pic/dai phu quy.png, id=23, 313.9228pt x 405.76593pt
->
-File: D:/Báo cáo thực tập/pic/dai phu quy.png Graphic file (type png)
-<use D:/Báo cáo thực tập/pic/dai phu quy.png>
-Package pdftex.def Info: D:/Báo cáo thực tập/pic/dai phu quy.png  used on
- input line 161.
-(pdftex.def)             Requested size: 313.92203pt x 405.76494pt.
-
-Overfull \hbox (4.86584pt too wide) in paragraph at lines 158--164
-[]\T5/cmr/bx/n/12 SHOWROOM �I PH� QU� - BI�N HO� �NG NAI, TP.HCM.
- []
-
-[5 <D:/Báo cáo thực tập/pic/dai phu quy.png>]
-<D:/Báo cáo thực tập/pic/long giang.jpg, id=28, 408.52625pt x 378.41376pt
->
-File: D:/Báo cáo thực tập/pic/long giang.jpg Graphic file (type jpg)
-<use D:/Báo cáo thực tập/pic/long giang.jpg>
-Package pdftex.def Info: D:/Báo cáo thực tập/pic/long giang.jpg  used on 
-input line 180.
-(pdftex.def)             Requested size: 245.11765pt x 227.05pt.
- [6 <D:/Báo cáo thực tập/pic/long giang.jpg>]
-<D:/Báo cáo thực tập/pic/bao gia.png, id=32, 646.21425pt x 233.673pt>
+d on input line 182.
+(pdftex.def)             Requested size: 244.66345pt x 150.18571pt.
+ [5 <D:/Báo cáo thực tập/pic/long giang.jpg> <D:/Báo cáo thực tập/p
+ic/lagi phan thiet.jpg>]
+<D:/Báo cáo thực tập/pic/bao gia.png, id=29, 646.21425pt x 233.673pt>
 File: D:/Báo cáo thực tập/pic/bao gia.png Graphic file (type png)
 <use D:/Báo cáo thực tập/pic/bao gia.png>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/bao gia.png  used on inp
-ut line 210.
+ut line 212.
 (pdftex.def)             Requested size: 452.34688pt x 163.56998pt.
 
-Overfull \hbox (11.32915pt too wide) in paragraph at lines 210--211
+Overfull \hbox (11.32915pt too wide) in paragraph at lines 212--213
  [][] 
  []
 
-<D:/Báo cáo thực tập/pic/bao tri.jpg, id=33, 959.585pt x 1280.785pt>
+<D:/Báo cáo thực tập/pic/bao tri.jpg, id=30, 959.585pt x 1280.785pt>
 File: D:/Báo cáo thực tập/pic/bao tri.jpg Graphic file (type jpg)
 <use D:/Báo cáo thực tập/pic/bao tri.jpg>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/bao tri.jpg  used on inp
-ut line 219.
+ut line 221.
 (pdftex.def)             Requested size: 191.91359pt x 256.15247pt.
-[7 <D:/Báo cáo thực tập/pic/bao gia.png> <D:/Báo cáo thực tập/pic/b
+[6 <D:/Báo cáo thực tập/pic/bao gia.png> <D:/Báo cáo thực tập/pic/b
 ao tri.jpg>]
-<D:/Báo cáo thực tập/pic/ket noi.jpg, id=39, 374.39874pt x 281.05pt>
+<D:/Báo cáo thực tập/pic/ket noi.jpg, id=35, 374.39874pt x 281.05pt>
 File: D:/Báo cáo thực tập/pic/ket noi.jpg Graphic file (type jpg)
 <use D:/Báo cáo thực tập/pic/ket noi.jpg>
 Package pdftex.def Info: D:/Báo cáo thực tập/pic/ket noi.jpg  used on inp
-ut line 227.
+ut line 229.
 (pdftex.def)             Requested size: 224.64098pt x 168.63129pt.
- [8 <D:/Báo cáo thực tập/pic/ket noi.jpg>]
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 236--236
+ [7 <D:/Báo cáo thực tập/pic/ket noi.jpg>]
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 239--239
 [] [] 
  []
 
-[9] ("Bao cao thuc tap.aux") ) 
+[8] ("Bao cao thuc tap.aux") ) 
 Here is how much of TeX's memory you used:
- 3817 strings out of 480236
- 51004 string characters out of 2890319
- 324833 words of memory out of 3000000
- 20323 multiletter control sequences out of 15000+200000
+ 3878 strings out of 480236
+ 51872 string characters out of 2890319
+ 326291 words of memory out of 3000000
+ 20380 multiletter control sequences out of 15000+200000
  539943 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,750b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,10n,66p,750b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Nguyen Thanh Nhan\AppData\Local\MiKTeX
 \fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Nguyen Thanh Nhan/App
 Data/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Nguyen Thanh Nha
 n/AppData/Roaming/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb>
-Output written on "Bao cao thuc tap.pdf" (9 pages, 1587622 bytes).
+Output written on "Bao cao thuc tap.pdf" (8 pages, 1586406 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
